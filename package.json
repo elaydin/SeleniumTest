@@ -1,0 +1,19 @@
+{
+  "name": "seleniumtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "codeceptjs": "^3.7.4",
+    "playwright": "^1.55.0",
+    "selenium-standalone": "^10.0.2",
+    "webdriverio": "^6.12.1"
+  }
+}
